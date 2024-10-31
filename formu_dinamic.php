@@ -10,7 +10,7 @@ echo "<html>
        <link rel='stylesheet' href='../../../css/bootstrap.min.css'>
        <link rel='stylesheet' href='../../css/nuevo_estilo.css' type='text/css'>
        <script type='text/javascript' src='../../../js/bootstrap.bundle.min.js'></script>
-         <title>INSERTAR ACTIVO FIJO</title>
+         <title>ESTE NO ES EL TITULO</title>
        </head>
        <body>
          <div class='formu_ingreso_datos'>
